@@ -31,12 +31,19 @@ Displays final result using Matplotlib
 🧠 Technology Used
 
 Python 🐍
+
 OpenCV (cv2)
+
 NumPy
+
 Matplotlib
+
 YOLOv4 (Darknet)
+
 Tkinter (for file selection)
+
 Requests (for downloading model files)
+
 🚀 How It Works
 YOLOv4 model files are downloaded automatically if not present
 An image is selected via file dialog
