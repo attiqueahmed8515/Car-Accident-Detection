@@ -52,16 +52,25 @@ Bounding boxes are generated for each detected car
 The system checks overlapping regions between cars
 If overlap is found → it is marked as an accident zone (red area)
 Final output image is displayed
+
 📷 Output
+
 🟩 Green boxes → Detected cars
+
 🟥 Red highlighted area → Accident/Collision zone
 
 🎯 Future Improvements
+
 Real-time video accident detection (CCTV/live stream)
+
 Integration with Deep Learning classifiers for severity detection
+
 Firebase/Cloud storage for accident logging
+
 Alert system for emergency response
 
 👨‍💻 Author
+
 Developed by Attique Ahmed
+
 BS Artificial Intelligence
