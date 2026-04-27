@@ -15,13 +15,21 @@ Checks for overlaps between vehicles
 Highlights collision (accident) zones in red
 Displays final result using Matplotlib
 ⚙️ Features
+
 🔄 Automatic download of YOLOv4 configuration, weights, and class labels
+
 🚗 Vehicle detection using YOLOv4 + OpenCV DNN
+
 📦 Non-Maximum Suppression (NMS) for better detection accuracy
+
 ⚠️ Collision detection based on bounding box overlap
+
 🔴 Visual highlighting of accident zones
+
 🖼️ GUI-based image selection using Tkinter
+
 🧠 Technology Used
+
 Python 🐍
 OpenCV (cv2)
 NumPy
